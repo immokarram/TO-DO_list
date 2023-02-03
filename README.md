@@ -1,6 +1,7 @@
-# TO-DO_list
-It is a website that contain mainly three parts which include add item,to-do task and completed.
-i used mainly html,css and javascript to creat this website .
-1> add_item : we can easily add those iten which i have to complete.
-2> to-do task : here all the task that has to be do would be stored and from here we could able to remember the task what to do.
-3> completed : here all the completed task would be stored.
+# To-Do-List
+
+A simple to-do list webapp based on Javascript. It uses MDL library for front end components.<br>
+It has three tabs - Add Item, To-Do Tasks, Completed.<br>
+Add Item - Task can be added to the list of To-Do Tasks.<br>
+To-Do Tasks - Lists the current list of to-do of the user, has option to mark as completed and move to completed tab or delete it from the list altogether.<br>
+Completed - Lists the completed tasks of the user and an option to delete it from the list.<br>
